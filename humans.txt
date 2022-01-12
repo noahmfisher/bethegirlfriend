@@ -1,0 +1,9 @@
+/* SITE INFORMATION */
+
+	Site name:  GIRLFRIEND
+	Site URL:   https://www.bethegirlfriend.com/
+	Web design: Noah M. Fisher
+	Twitter:    https://www.twitter.com/shopgirlfriend
+	Instagram:  https://www.instagram.com/bethegirlfriend
+	Location:   USA
+	Built with: CSS3, HTML5, jQuery, Modernizr, Normalize.css
